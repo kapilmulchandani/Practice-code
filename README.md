@@ -1,3 +1,3 @@
 # Practice-code
 
-Competitive Coding questions praactice.
+Competitive Coding questions practice.
